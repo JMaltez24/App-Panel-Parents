@@ -1,0 +1,222 @@
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\API_PANEL_PARENTS.dll.config
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\API_PANEL_PARENTS.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\API_PANEL_PARENTS.pdb
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csc.exe
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csc.exe.config
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csc.rsp
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csi.exe
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csi.exe.config
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csi.rsp
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.AppContext.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Console.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Net.Http.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\vbc.exe
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\vbc.exe.config
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\vbc.rsp
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Antlr3.Runtime.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Net.Http.Formatting.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Helpers.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.WebHost.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Mvc.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Optimization.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Razor.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\WebGrease.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Antlr3.Runtime.pdb
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Helpers.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Mvc.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Optimization.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Razor.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Net.Http.Formatting.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.WebHost.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\es\System.Web.Http.resources.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.csproj.AssemblyReference.cache
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.csproj.CoreCompileInputs.cache
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANE.E3AEB74B.Up2Date
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.dll
+C:\Users\kener\Desktop\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.pdb
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\API_PANEL_PARENTS.dll.config
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\API_PANEL_PARENTS.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\API_PANEL_PARENTS.pdb
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csc.exe
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csc.exe.config
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csc.rsp
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csi.exe
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csi.exe.config
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\csi.rsp
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.AppContext.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Console.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.Compression.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Net.Http.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.ValueTuple.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\vbc.exe
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\vbc.exe.config
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\vbc.rsp
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\VBCSCompiler.exe
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Antlr3.Runtime.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Net.Http.Formatting.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Helpers.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.WebHost.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Mvc.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Optimization.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Razor.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Razor.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\WebGrease.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Antlr3.Runtime.pdb
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Helpers.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Mvc.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Optimization.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Razor.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.WebPages.Razor.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Net.Http.Formatting.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.WebHost.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\es\System.Web.Http.resources.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.csproj.AssemblyReference.cache
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.Properties.Resources.resources
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.csproj.GenerateResource.cache
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.csproj.CoreCompileInputs.cache
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANE.E3AEB74B.Up2Date
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\obj\Release\API_PANEL_PARENTS.pdb
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Security.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.Bson.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Owin.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Buffers.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Memory.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Numerics.Vectors.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Text.Encodings.Web.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Text.Json.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.ValueTuple.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.Owin.dll
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Security.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\Newtonsoft.Json.Bson.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Buffers.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Memory.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Numerics.Vectors.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Text.Encodings.Web.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Text.Json.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.ValueTuple.xml
+C:\Users\kener\Desktop\API v12.7.24\Panel Parents Admin\SQL C#\PANEL PARENTS\API_PANEL_PARENTS\API_PANEL_PARENTS\bin\System.Web.Http.Owin.xml

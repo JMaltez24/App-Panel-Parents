@@ -1,0 +1,15 @@
+https://localhost:44368/api/asignatura/registrar
+https://localhost:44368//api/alumno/registrar
+https://localhost:44368/api/usuariom/autenticarm  GET
+http://panelparent.somee.com/api/padre/registrar
+https://localhost:44368/api/grupoclase/registrar
+https://localhost:44368/api/usuariom/registrar
+http://panelparent.somee.com/api/maestro/listarmaestro  GET
+https://localhost:44368/api/grupoclaseasignatura/asignarclase
+http://panelparent.somee.com/api/padre/autenticar  GET
+http://panelparent.somee.com/api/padre/alumno/agregar
+https://localhost:44368/api/alumnogrupoclase/registrar
+https://localhost:44368//api/alumno/listar   GET
+https://localhost:44368/api/asignatura/listar   GET
+https://localhost:44368/api/anuncio/registrar
+https://localhost:44368/api/alumnogrupoclaseasignatura/agregarNota 
